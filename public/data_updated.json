@@ -1,0 +1,1356 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "William Poor",
+      "title": "The all-seeing AI webcam",
+      "description": "We explore the world of Dries Depoorter, an artist and engineer who uses AI and public webcam feeds to make us question our privacy and anonymity, both online and IRL.",
+      "url": "https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MKWzQMOwDHH9tVt7QGMA_Tp0t9Y=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25537842/247176_Vergecast_AI_Dries_Depoorter_SHaddad.jpg",
+      "publishedAt": "2024-07-21T15:00:00Z",
+      "content": "The all-seeing AI webcam\r\nThe all-seeing AI webcam\r\n / On The Vergecast: selfie surveillance, DIY jaywalk detectors, and the artwork of one man with questions about AI.\r\nByWilliam Poor, a video produ… [+2085 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Nearly All Google Pixel Phones Are Left Exposed by Unpatched Flaw in Hidden Android App",
+      "description": "A fix is coming, but data analytics giant Palantir says it’s ditching Android devices altogether because Google’s response to the vulnerability has been troubling.",
+      "url": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
+      "urlToImage": "https://media.wired.com/photos/6640f1f0f59145e49d5e32e1/191:100/w_1280,c_limit/Google-Pixel-8A-Back-View-Hand-Reviewer-Photo-SOURCE-Julian-Chokkattu.png",
+      "publishedAt": "2024-08-15T13:00:00Z",
+      "content": "Google's flagship Pixel smartphone line touts security as a centerpiece feature, offering guaranteed software updates for seven years and running stock Android that's meant to be free of third-party … [+3151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Where have all the wasps gone?",
+      "description": "Outdoor activities are usually plagued by wasps at this time of year, but 2024 has been different.",
+      "url": "https://www.bbc.com/news/articles/c134621devzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0449/live/74c4b7a0-4fec-11ef-a2b2-651941bfb3ca.png",
+      "publishedAt": "2024-08-03T23:25:13Z",
+      "content": "Wasps need lots of insects to feed their young, so thrive in the warmer months\r\nDespite their bad reputation and tendency to disrupt picnics, wasps are an important part of our ecosystem.\r\nDuring thi… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Isabel Fraser, David Gilbert",
+      "title": "Elon Musk Is All In On Endorsing Trump. His Chatbot, Grok, Is Not",
+      "description": "As Donald Trump calls for unity, Elon Musk’s “anti-woke” AI chatbot Grok is promoting claims that Trump is a “pedophile” while referring to the former president as “Psycho.”",
+      "url": "https://www.wired.com/story/elon-musk-is-all-in-on-endorsing-trump-his-ai-chatbot-grok-is-not/",
+      "urlToImage": "https://media.wired.com/photos/6696e8075278922e61ef5d6f/191:100/w_1280,c_limit/politics_grok_chatbot_musk_trump_psycho.jpg",
+      "publishedAt": "2024-07-18T15:26:20Z",
+      "content": "When Global Witness researchers asked Grok for a list of presidential candidates on regular mode, it named Donald Trump, Joe Biden, Robert F. Kennedy Jr, and Nikki Haley, in that order. The researche… [+3026 chars]",
+      "category": "politics"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Daniel Thorp-Lancaster",
+      "title": "Asus Chromebook Plus CX34 Review: A Pretty Chromebook",
+      "description": "Asus puts all the gray, boring Chromebooks out there to shame with the sleek and all-white CX34.",
+      "url": "https://www.wired.com/review/asus-chromebook-plus-cx34/",
+      "urlToImage": "https://media.wired.com/photos/66a40a609a4ea6a5bb2b0894/191:100/w_1280,c_limit/Asus-Chromebook-Plus-CX34-Reviewer-Collage-072024-SOURCE-Daniel-Thorp-Lancaster.jpg",
+      "publishedAt": "2024-07-27T11:30:00Z",
+      "content": "One major omission from this model is a backlit keyboard, which is disappointing if you want to use it in the dark. Older CX34 models came with a backlit keyboard, so, curiously, Asus opted not to sh… [+1687 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Thomas Ricker",
+      "title": "The HoverAir X1 is the first drone I want to use all the time",
+      "description": "The HoverAir X1 is a selfie drone that does 90 percent of what I want a flying camera to do despite lacking the intelligence of much more expensive models.",
+      "url": "https://www.theverge.com/24211113/hoverair-x1-review-selfie-drone-price-specs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gAjap7MMF4jmnj_XoyzScZ4j2Lg=/0x0:2517x1888/1200x628/filters:focal(1259x944:1260x945)/cdn.vox-cdn.com/uploads/chorus_asset/file/25556630/IMG_8670.jpeg",
+      "publishedAt": "2024-08-03T09:00:00Z",
+      "content": "A selfie drone that makes the case for ditching GPS, obstacle avoidance, and controllers. I’ve played around with a few DJI drones over the years but always found them to be too cumbersome to master … [+8269 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Widder",
+      "title": "Apple’s AirTags are on sale for $23.99 a pop, matching their all-time low",
+      "description": "Apple’s handy location trackers are on sale for $5 off at Amazon and Walmart. You can also save on the Apple Watch Series 9 and Acer’s Chromebook Plus Spin 714.",
+      "url": "https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u8svg6UO_9e_JkZiFcWwNDhgDfo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22461387/vpavic_4547_20210421_0074.jpg",
+      "publishedAt": "2024-07-25T19:26:52Z",
+      "content": "Apples AirTags are on sale for $23.99 a pop, matching their all-time low\r\nApples AirTags are on sale for $23.99 a pop, matching their all-time low\r\n / You can also score savings on the Apple Watch Se… [+3170 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Thomas Ricker",
+      "title": "iPhone 16: all the leaks and rumors about Apple’s next smartphone",
+      "description": "Leaks so far have suggested a new pressure-sensitive camera button and bigger screens for the iPhone 16 Pro and a redesigned camera bump for the standard iPhone 16.",
+      "url": "https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RM-r7K1gVA9oSVC5uSkgJo2d_Sw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931969/236794_iPhone_15_pro_pro_Max_VPavic_0011.jpg",
+      "publishedAt": "2024-08-17T14:14:33Z",
+      "content": "Apple should be spinning up the iPhone 16 line soon, and while rumors about its phones dont tend to leak like certainotherphonesI know, some details have trickled out of the halls of Cupertino and it… [+3351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Agatha All Along Reveals a Suitably Bewitching New Trailer",
+      "description": "Marvel's WandaVision spin-off starring Kathryn Hahn as Agatha Harkness hits Disney+ September 18.",
+      "url": "https://gizmodo.com/sdcc-2024-agatha-all-along-trailer-marvel-disney-plus-2000477049",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Agatha_All_Along_cast.jpg",
+      "publishedAt": "2024-08-10T04:02:41Z",
+      "content": "Marvel fans got their first tease of witchy WandaVision spin-off Agatha All Alongin July, and now there’s an even better look at Agatha Harkness (Kathryn Hahn) and her chaotic coven. Now that Hallowe… [+830 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "Agatha All Along Teases Its Witchy, Horror Influences",
+      "description": "Plus, get our best look yet at Jack Kesy's Hellboy in a new look at The Crooked Man.",
+      "url": "https://gizmodo.com/agatha-all-along-horror-movie-influences-marvel-mcu-2000486819",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/MS-0814-Agatha-All-Along-Kathryn-Hahn.jpg",
+      "publishedAt": "2024-08-14T13:00:21Z",
+      "content": "The next Final Destination is heading to theaters after all. Dune: Prophecy reveals Bollywood star Tabu’s disruptive character. Ryan Murphy’s next horror has found its release date. Plus, there’s goo… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "All the Questions We Have After Deadpool & Wolverine",
+      "description": "Ryan Reynolds and Hugh Jackman star in the Marvel Studios mega-hit and now let's dive deep into its biggest spoilers.",
+      "url": "https://gizmodo.com/deadpool-wolverine-spoilers-ending-cameos-questions-2000480425",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-28-at-8.49.40 AM-e1722181868334.jpg",
+      "publishedAt": "2024-07-29T19:00:50Z",
+      "content": "Considering that record-shattering opening, we’re guessing many of you saw Deadpool &amp; Wolverine this weekend. Marvel’s latest smash hit had the sixth-best opening of all time and was only the nin… [+7011 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Google Won’t Kill Third-Party Cookies After All",
+      "description": "Google said last year it was getting rid of third-party cookies in Chrome, but it looks like the company changed its mind.",
+      "url": "https://gizmodo.com/google-wont-kill-third-party-cookies-after-all-2000477595",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/google-hq.jpg",
+      "publishedAt": "2024-07-23T11:00:15Z",
+      "content": "Google announced back in 2023 that the company would be getting rid of third-party cookies in Chrome, which allow companies to better track our activity online, allowing for more targeted ads. But in… [+2029 chars]",
+      "category": "business"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "All the Coolest New Things Coming to Disney Parks",
+      "description": "From Monsters Inc and The Lion King, to Encanto, Indiana Jones and Avatar, there's a lot coming soon to Disney Parks everywhere.",
+      "url": "https://gizmodo.com/new-disney-parks-rides-avatar-lion-king-encanto-d23-2000485611",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/d23-2024-parks-art.jpg",
+      "publishedAt": "2024-08-11T16:25:54Z",
+      "content": "Imagine going to a rock concert but, between the songs, the lead singer tells you news about new theme park rides. That’s exactly what happened Saturday night at D23 2024. In front of 12,000 people a… [+3359 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Yes, Sometimes You Do Age a Lot All at Once",
+      "description": "New research reveals that most people undergo two significant biological changes in their bodies during their lifetime, typically in their mid 40s and early 60s.",
+      "url": "https://gizmodo.com/yes-sometimes-you-do-age-a-lot-all-at-once-2000487227",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/aging-changing-microbiome-molecules.jpg",
+      "publishedAt": "2024-08-15T14:05:01Z",
+      "content": "Weve all had a night out after which we feel ten years older the next morning, but when it comes to actual aging, that sudden shift may almost literally be truewe dont age gradually, but in two big s… [+2930 chars]",
+      "category": "education"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "My mum died waiting all night for an ambulance",
+      "description": "Jean Frickel is one of 39 people in two years whose deaths happened due to patient handover delays.",
+      "url": "https://www.bbc.com/news/articles/clynn73ydd2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f754/live/580409a0-557c-11ef-b2d2-cdb23d5d7c5b.jpg",
+      "publishedAt": "2024-08-08T21:59:00Z",
+      "content": "Jean Frickel had a number of health conditions but \"lived her life to the full\" according to her daughter\r\nWhen Jean Frickel fell ill, her family called an ambulance so she could get the crucial life… [+6646 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "All children injured in Southport attack out of hospital",
+      "description": "The last remaining child injured in the Southport knife attack is released from hospital.",
+      "url": "https://www.bbc.com/news/articles/c24p34l9v51o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cbb8/live/930fa140-55a3-11ef-af28-b5a98fe08607.jpg",
+      "publishedAt": "2024-08-08T16:37:21Z",
+      "content": "All children injured in the knife attack in Southport have been discharged from hospital, police have said.\r\nThree girls were killed when a knifeman entered a Taylor Swift-themed holiday club on 29 J… [+339 chars]",
+      "category": "health"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "All-Ireland final 'bigger than Christmas' in Armagh",
+      "description": "Armagh fans have been painting the Orchard County orange and white ahead of the All-Ireland final.",
+      "url": "https://www.bbc.com/news/articles/ce93dgq23qpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d49d/live/9c18e4e0-49ff-11ef-b2d2-cdb23d5d7c5b.jpg",
+      "publishedAt": "2024-07-24T23:03:44Z",
+      "content": "Young players at Ballyhegan Davitts GFC were excited for the final\r\nWith Armagh set to make their first appearance at All-Ireland Senior Football Championship final since 2003, GAA fans have been pai… [+7144 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Met failing in almost all work areas - inspectorate",
+      "description": "The inspectorate found seven of nine areas were graded as \"requires improvement\" or \"inadequate\".",
+      "url": "https://www.bbc.com/news/articles/c0qe1g4g751o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a83c/live/35174d50-5a39-11ef-a88c-9f995a4e445d.jpg",
+      "publishedAt": "2024-08-14T23:05:47Z",
+      "content": "The police inspectorate found seven of nine areas the Met was assessed in were graded as \"requires improvement\" or \"inadequate\"\r\nThe Metropolitan Police is failing in almost all its areas of work, th… [+4579 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Stelter",
+      "title": "NBC’s Olympics Broadcast Isn’t Just Addictive. It’s a New Era of Streaming",
+      "description": "With a big assist from Peacock, the 2024 Summer Olympics broadcast is fragmented in all the right ways.",
+      "url": "https://www.wired.com/story/nbc-peacock-2024-summer-olympics-coverage/",
+      "urlToImage": "https://media.wired.com/photos/66b12048cabb7f268cc85fe9/191:100/w_1280,c_limit/Olympic-Coverage-NBC-Culture-2165277356.jpg",
+      "publishedAt": "2024-08-07T12:00:00Z",
+      "content": "Peacocks editorial team has adjusted and reorganized video content on the fly. Viewers and reviewers have been buzzing about Snoop Doggs segments, so the team set up a scrollable playlist of Snoop cl… [+2492 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Pete Cottell",
+      "title": "Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs",
+      "description": "This fancy audio interface makes plugging in all your synths a breeze.",
+      "url": "https://www.wired.com/review/arturia-audiofuse-16rig/",
+      "urlToImage": "https://media.wired.com/photos/66b1445f20bdde4e1d913f00/191:100/w_1280,c_limit/Arturia-AudioFuse-16Rig-Audio-Interface-Reviewer-Collage-082024-SOURCE-Pete-Cottell.jpg",
+      "publishedAt": "2024-08-06T11:32:00Z",
+      "content": "For as long as music gear companies have been making audio interfaces, theyve assumed that most people in the market care only about plugging as many microphones into their computer as possible. They… [+2935 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Kylie Robison",
+      "title": "Perplexity is cutting newsrooms a check following plagiarism accusations",
+      "description": "The revenue share is a multiyear agreement with a “double-digit percentage,” consistent across all publishers.",
+      "url": "https://www.theverge.com/2024/7/30/24208979/perplexity-publishers-program-ad-revenue-sharing-ai-time-fortune-der-spiegel",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/7d11B7zWhOLcLN4H2QUGkiTmo5g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg",
+      "publishedAt": "2024-07-30T13:00:00Z",
+      "content": "Perplexity is cutting newsrooms a check following plagiarism accusations\r\nPerplexity is cutting newsrooms a check following plagiarism accusations\r\n / Time, Der Spiegel, and Fortune are among the fir… [+6889 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Gault",
+      "title": "OpenAI Wants to See All of the New York Times Reporters’ Notes and Memos",
+      "description": "Court documents revealed that the tech giant is demanding to see the Times's \"notes, interview memos, records of materials cited, or other ‘files’\" related to millions of stories.",
+      "url": "https://gizmodo.com/openai-wants-to-see-all-of-the-new-york-times-reporters-notes-and-memos-2000476238",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1462188008.jpg",
+      "publishedAt": "2024-07-18T14:45:24Z",
+      "content": "The New York Times’s copyright lawsuit against OpenAI is getting ugly. As part of the discovery process, OpenAI wants the Times to turn over its reporters notes, interview memos, records of materials… [+3073 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Rings of Power Introduces All the Strange, Strange Creatures of Season 2",
+      "description": "Shelob and her spider broods, Ents, sea worms, and more orcs than you can shake a spear at: Amazon's Lord of the Rings prequel is becoming a bit of a creature feature in season 2.",
+      "url": "https://gizmodo.com/lotr-rings-of-power-season-2-creatures-trailer-shelob-ents-2000480816",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/lotr-rings-of-power-season-2-sea-worm.jpg",
+      "publishedAt": "2024-07-29T20:10:53Z",
+      "content": "Rings of Power really wants us to know that when it comes back next month, it’s going to be doing a lot of the things that fans wished season one had. There’s lots of battles. There’s rings of power,… [+1741 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "Ronald D. Moore Dives Into For All Mankind’s Russia-Set Spinoff",
+      "description": "Titled Star City, it will show the alternate universe space race from the opposite point of view.",
+      "url": "https://gizmodo.com/for-all-mankind-spinoff-star-city-apple-tv-ronald-moore-2000480833",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-29-at-1.00.30 PM-e1722283314309.jpg",
+      "publishedAt": "2024-07-29T22:00:59Z",
+      "content": "Fans of Apple TV+’s show For All Mankind got some very good news earlier this year. Not only would the show be coming back for a fifth season, a spinoff show called Star City was in the works, which … [+3039 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Sam Esmail’s Battlestar Galactica Reboot Won’t Be Coming to Peacock After All",
+      "description": "There's still hope the Mr. Robot creator will find a new home for his reimagining of the fan-favorite sci-fi series.",
+      "url": "https://gizmodo.com/sam-esmails-battlestar-galactica-reboot-wont-be-coming-to-peacock-after-all-2000481970",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/boomer.jpg",
+      "publishedAt": "2024-07-31T22:31:26Z",
+      "content": "Somewhere, the faint sound of an especially melancholy take on “All Along the Watchtower” is playing, because Battlestar Galactica fans aren’t getting a balm for that polarizing 2009 finale of the sh… [+1318 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Ancient Builders May Have Schlepped Stonehenge’s Altar Stone All the Way From Scotland",
+      "description": "Fragments of the Altar Stone are geologically different from the others at Stonehenge, but similar to those found hundreds of miles away, according to new research.",
+      "url": "https://gizmodo.com/ancient-builders-may-have-schlepped-stonehenges-altar-stone-all-the-way-from-scotland-2000486882",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/stonehenge-altar-stone-scotland-study.jpeg",
+      "publishedAt": "2024-08-14T15:00:02Z",
+      "content": "Stonehenge is among the most iconic locations in England, but it may have a wee bit of Scottish ancestry.\r\nPrevious analysis of the rocks that comprise Stonehenge indicate they had been sourced from … [+3527 chars]",
+      "category": "education"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Marvel Sure Is Being Cagey About Joe Locke’s Agatha All Along Character",
+      "description": "The Heartstopper star says that in the script for the Disney+ series, his character's name is simply \"Teen.\"",
+      "url": "https://gizmodo.com/agatha-all-along-joe-locke-character-teen-wiccan-marvel-2000481392",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/agathallaalong.jpg",
+      "publishedAt": "2024-07-30T21:30:55Z",
+      "content": "Witches are by nature mysteriousand that carries over into Marvel’s WandaVision spin-off, Agatha All Along, which will follow Kathryn Hahn’s breakout character as she assembles a coven to accompany h… [+2217 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "All the News, Trailers, and Cosplay From San Diego Comic-Con 2024",
+      "description": "Another Comic-Con has come to an end–but io9 was there every step of the way to bring you all the news, just in case you missed anything.",
+      "url": "https://gizmodo.com/san-diego-comic-con-2024-news-marvel-dc-star-wars-2000480671",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/sdcc-news-round-up-marvel-star-trek-rings-of-power.jpg",
+      "publishedAt": "2024-07-29T17:20:13Z",
+      "content": "\"Borg, Borg, Borg! I love the Borg!\", Davies boomed when asked during a San Diego Comic-Con panel celebrating Doctor Who and Star Trek's shared values.",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sabina Graves",
+      "title": "Inside Out 2 Beats Frozen 2 as the Highest-Grossing Animated Movie of All Time",
+      "description": "The film is now playing in theaters worldwide and has surpassed the record previously held by Frozen 2.",
+      "url": "https://gizmodo.com/inside-out-2-box-office-record-frozen-2-disney-2000478468",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/io2-io9.jpg",
+      "publishedAt": "2024-07-24T17:14:06Z",
+      "content": "This year’s movie theater slump has finally ended with the release of summer blockbusters and animated films, which have relieved the industry with huge hits. And leave it to Disney and Pixar to have… [+1606 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "All the Movie, TV, Game, and Theme Park News From D23 2024",
+      "description": "From Star Wars and Marvel to Avatar and animation, we've got all the biggest news from Disney's massive conventions, D23.",
+      "url": "https://gizmodo.com/all-the-movie-tv-game-and-theme-park-news-from-d23-2024-2000485897",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/D23-2024-recap.jpg",
+      "publishedAt": "2024-08-12T17:10:23Z",
+      "content": "People often ask what the heck D23 is and the easiest way to describe it is a comic convention, but only for Disney. Every few years, the Walt Disney Company brings every nook and cranny of its prope… [+1097 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "Deadpool & Wolverine is Destined to Become the Highest-Grossing R-Rated Movie of All Time",
+      "description": "Having already crested $1 billion at the box office, Deadpool & Wolverine is on track to usurp The Joker as the highest-grossing R-rated movie of all time.",
+      "url": "https://gizmodo.com/deadpool-and-wolverine-box-office-records-marvel-mcu-2000485801",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/deadpool-1-ht-dp-042224_1713794594236_hpMain.jpg",
+      "publishedAt": "2024-08-12T15:00:05Z",
+      "content": "Deadline reports Deadpool and Wolverine has officially crested the $1 billion threshold at the box office, and is destined to become the high-grossing R-rated movie of all time.\r\nAccording to the out… [+2083 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "By Laura Sirikul",
+      "title": "The Nightmare Before Christmas‘ Henry Selick Hides Jack Skellington in All His Movies",
+      "description": "The Pumpkin King is also an Easter egg—popping up in Selick's other films, including Coraline and Wendell & Wild.",
+      "url": "https://gizmodo.com/the-nightmare-before-christmas-henry-selick-hides-jack-skellington-in-all-his-movies-2000488179",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Nightmare_Before_Christmas_Jack.jpg",
+      "publishedAt": "2024-08-16T23:40:44Z",
+      "content": "Henry Selick, director of 1993 cult classic The Nightmare Before Christmas, has revealed he’s hidden a Jack Skellington in every one of his films. \r\n“If you look very, very carefully, you might find … [+2251 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Eric Ravenscraft",
+      "title": "What Are Color Gamuts and Color Spaces in TVs and Monitors, and Do They Matter?",
+      "description": "If you’re confused by all the jargon used to describe your new monitor, don’t worry. We’ve got you (and your color gamut) covered.",
+      "url": "https://www.wired.com/story/what-are-color-gamuts-and-why-do-they-matter/",
+      "urlToImage": "https://media.wired.com/photos/66afff84c00d51a4cf762728/191:100/w_1280,c_limit/Pixels-red-green-blue-RGB-LED-computer-screen-GettyImages-615632920-sandergroffen-(cropped).jpg",
+      "publishedAt": "2024-08-05T12:00:00Z",
+      "content": "Back in the 1950s, when color TV was invented, everything was simple. TVs were either color or black-and-white, and you could tell at a glance which was which. Today, you can find TVs and monitors th… [+3127 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "David Nield",
+      "title": "The Gizmodo Back to School Guide 2024",
+      "description": "Start the school year right with all of the best tech to hopefully ace all of your courses.",
+      "url": "https://gizmodo.com/the-gizmodo-back-to-school-guide-2024-2000487416",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/00-hero-2-e1723747586404.jpg",
+      "publishedAt": "2024-08-16T17:33:33Z",
+      "content": "As regular as clockwork, back-to-school season has rolled around again, which means you (or someone in your life) could be shopping for the best gadgets to take into the classroom, lecture hall, or l… [+5174 chars]",
+      "category": "education"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Bob Sorokanich",
+      "title": "The 2025 Ford Maverick Shows That Hybrid Pickup Trucks Are Going Mainstream",
+      "description": "Just as Tesla ditches its $60,000 Cybertruck, Ford finally allows buyers to pair its efficient hybrid powertrain with all-wheel drive and a towing package. Hallelujah.",
+      "url": "https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/",
+      "urlToImage": "https://media.wired.com/photos/66b238d5206f91e861323d94/191:100/w_1280,c_limit/FORDMaverick.jpg",
+      "publishedAt": "2024-08-14T10:30:00Z",
+      "content": "Ford created a surprise smash hit when it introduced the Maverick in 2021. This compact pickup, built on architecture shared with the Escape and Bronco Sport crossover SUVs, offered truck capability … [+3478 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "‘Honey, I Shrunk the Art Show’ Is Full of Fantastically Tiny Portraits",
+      "description": "Get a sneak peek of Gallery 1988's online exhibit of art that's all under 6 x 6 inches, and all themed to the 1980s.",
+      "url": "https://gizmodo.com/honey-i-shrunk-the-art-show-is-full-of-fantastically-tiny-portraits-2000474141",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/88-art-show-top.jpg",
+      "publishedAt": "2024-07-18T19:46:21Z",
+      "content": "This Friday, Gallery 1988 will reveal a new online exhibit called “Honey, I Shrunk the Art Show,” curated by two artists who love to make small art: Tom Whalen and Dave Perillo. The io9 favorites hav… [+1445 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoya Teirstein",
+      "title": "Project 2025 Wants to Propel America Into Environmental Catastrophe",
+      "description": "Tracking emissions, managing pollutants, responding to natural disasters—even accurately predicting the weather—would all be trampled in a wave of privatization, deregulation, and unfettered fossil-fuel exploitation.",
+      "url": "https://www.wired.com/story/project-2025-wants-to-propel-america-into-environmental-catastrophe/",
+      "urlToImage": "https://media.wired.com/photos/66a2aa7c9f9aae959d16d5d7/191:100/w_1280,c_limit/GettyImages-2162188197.jpg",
+      "publishedAt": "2024-07-27T11:00:00Z",
+      "content": "Within the Department of Energy, offices dedicated to clean energy research and implementation would be eliminated, and energy efficiency guidelines and requirements for household appliances would be… [+2612 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "ChatGPT Advanced Voice Mode First Impressions: Fun, and Just a Bit Creepy",
+      "description": "The new voice feature from OpenAI for ChatGPT is often entertaining, and will even do a Trump impression. It likely rolls out to all paid users this fall.",
+      "url": "https://www.wired.com/story/chatgpt-advanced-voice-mode-first-impressions/",
+      "urlToImage": "https://media.wired.com/photos/66bbdd9fa7d637d5d29ecfa5/191:100/w_1280,c_limit/ChatGPT__AdvancedVoiceMode_K86E9P.jpg",
+      "publishedAt": "2024-08-13T22:39:34Z",
+      "content": "I leave ChatGPTs Advanced Voice Mode on while writing this article as an ambient AI companion. Occasionally, Ill ask it to provide a synonym for an overused word, or some encouragement. Around half a… [+3542 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Spotify gives up on trying to charge for song lyrics",
+      "description": "Spotify has stopped trying to charge users to view song lyrics. The music streaming service says it will return lyrics to all users “over the coming week.”",
+      "url": "https://www.theverge.com/2024/7/31/24210316/spotify-gives-up-paid-song-lyrics-premium-test",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0yqcZUaFgtYFDr7BbChGXEx_qEY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951390/STK088_VRG_Illo_N_Barclay_5_spotify.jpg",
+      "publishedAt": "2024-07-31T12:57:57Z",
+      "content": "Image: Nick Barclay / The Verge\r\n\n \n\n Spotify has stopped trying to make users pay for song lyrics. After expanding a test that put the feature behind a Premium paywall, Spotify is now reversing the … [+907 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Boost Mobile is getting a $25-a-month unlimited plan",
+      "description": "Boost Mobile now includes Boost Infinite and all post and pre-paid services under one company. The new $25 per month “unlimited” plan works on a single line.",
+      "url": "https://www.theverge.com/2024/7/18/24201176/boost-mobile-rebrand-infinite-25-unlimited-plan",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/X-DXkE0D9ZNYV2arNs9HPTQWzAM=/0x0:1921x1080/1200x628/filters:focal(961x540:962x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25536632/BoostMobile_Logo.jpg",
+      "publishedAt": "2024-07-18T17:34:15Z",
+      "content": "Boost Mobile is getting a $25-a-month unlimited plan\r\nBoost Mobile is getting a $25-a-month unlimited plan\r\n / The new Boost Mobile combines its pre- and post-paid services under one umbrella, and in… [+1521 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "How to stream the Olympics like a champ",
+      "description": "NBCUniversal is streaming all 5,000 hours of Olympic events live on Peacock. With new features like Multiview and Gold Zone, there’s more to see than ever.",
+      "url": "https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-BWweyr2fQEcoWJyCo6HQogKo6Q=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25545486/Olympics_on_Peacock_demo_image_Discovery_Multiview.png",
+      "publishedAt": "2024-07-26T12:00:00Z",
+      "content": "How to stream the Olympics like a champ\r\nHow to stream the Olympics like a champ\r\n / Paris is a Peacock town this year, but finding the right stuff to watch and making sure you dont miss anything can… [+6211 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Flipboard is going to let you follow fediverse accounts right inside the app",
+      "description": "Flipboard will now let users follow fediverse accounts from the Flipboard app, meaning you can see news and posts from people that interest you all within one app.",
+      "url": "https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yEYgWEEYmViN_wNwUVJQka1BbZE=/0x0:1416x784/1200x628/filters:focal(708x392:709x393)/cdn.vox-cdn.com/uploads/chorus_asset/file/25569545/Fediverse_Activity_Carousel.jpg",
+      "publishedAt": "2024-08-13T15:00:00Z",
+      "content": "Flipboard is going to let you follow fediverse accounts right inside the app\r\nFlipboard is going to let you follow fediverse accounts right inside the app\r\n / Youll be able to follow people on other … [+2406 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Anne Pouzargues",
+      "title": "Dengue Fever Threatens to Gate-Crash the 2024 Summer Olympics",
+      "description": "Measles, bedbugs, and dengue have all been cited as concerns for tourists and athletes at the 2024 Summer Olympics in Paris, with the tropical virus in particular forcing authorities into action.",
+      "url": "https://www.wired.com/story/paris-olympics-2024-dengue-measles-bedbugs/",
+      "urlToImage": "https://media.wired.com/photos/669995f48079e6310a76e67f/191:100/w_1280,c_limit/science_paris_olympics_health_measles_bedbugs_dengue.jpg",
+      "publishedAt": "2024-07-26T19:38:42Z",
+      "content": "Every time the Olympics come around, it seems theres a different disease stalking the event. At Rio 2016 it was Zika. At the postponed Tokyo games it was Covid. And at the 2024 Paris Olympics this su… [+3126 chars]",
+      "category": "sport"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Disney+’s Latest Price Hike Is Officially Driving My Subscription Fatigue",
+      "description": "Disney+, Hulu, and ESPN are all getting annoying price increases.",
+      "url": "https://gizmodo.com/disneys-latest-price-hike-is-officially-driving-my-subscription-fatigue-2000483825",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Disney-Plus.jpg",
+      "publishedAt": "2024-08-07T10:00:38Z",
+      "content": "Brat summer is over. It’s officially the era of subscription fatigue. Disney is raising the price of its multiple streaming services. Starting in October, Disney+, Hulu, and ESPN+ are all going up in… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Lookback: When ‘all hell broke loose’ at the Democratic Convention of 1968",
+      "description": "Veterans of the notorious anti-Vietnam protests say nothing can compare to the 1968 convention.",
+      "url": "https://www.bbc.com/news/articles/c8jl0p4vklyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48a8/live/19f51e60-5b3a-11ef-9734-5999d67cfdb6.jpg",
+      "publishedAt": "2024-08-17T10:02:42Z",
+      "content": "A Chicago police officer carries a young anti-war protester who fainted during the protests\r\nWhen 21-year-old Indiana University philosophy student Craig Sautter drove to Chicago for the 1968 Democra… [+8092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Blame all your problems on Mercury': What really happens during retrograde?",
+      "description": "The Mercury retrograde phenomenon is associated with misfortune by some - but does it really affect us?",
+      "url": "https://www.bbc.com/news/articles/crg7yg4mknxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4001/live/9a4f0690-502f-11ef-8671-c1b5bba5c862.jpg",
+      "publishedAt": "2024-08-03T23:17:58Z",
+      "content": "Mercury retrograde is coming back, my darlings.\r\nSadicka, an astrologer and spiritual life coach, is telling her 5,000 Instagram followers to watch out for technology issues, trouble communicating wi… [+5995 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Chris Baker",
+      "title": "'Deadpool & Wolverine' Scales New Heights of Cinematic Self-Awareness",
+      "description": "Deadpool’s first foray into the Marvel Cinematic Universe is all about giving fans more Easter eggs and references than they can catch. Will it also score Disney a hit?",
+      "url": "https://www.wired.com/story/deadpool-and-wolverine-trailers-launched-a-bonanza-for-internet-sleuths/",
+      "urlToImage": "https://media.wired.com/photos/6697e8f137acee5ebdd107d1/191:100/w_1280,c_limit/Wolverine-and-Deadpool-Trailer-Culture.jpg",
+      "publishedAt": "2024-07-25T11:00:00Z",
+      "content": "The sheer density of clues, hints, callbacks, allusions, and Easter eggs in the promotional material for Deadpool &amp; Wolverine is dizzying. Just watch any of the in-depth dissections of the Super … [+4353 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kyle Orland, Ars Technica",
+      "title": "How You Can Tell That Kamala Harris' Rally Crowds Aren't AI-Generated",
+      "description": "Conspiracy theories have shot up around images of surging crowds for Harris-Walz campaign events. But all it takes is a little research to prove the photos are real.",
+      "url": "https://www.wired.com/story/kamala-harris-rally-crowds-ai-trump-conspiracy/",
+      "urlToImage": "https://media.wired.com/photos/66bb8335431eda25aeb54d15/191:100/w_1280,c_limit/Harris-Rally-Signs-Pol-2165533763.jpg",
+      "publishedAt": "2024-08-13T19:36:45Z",
+      "content": "Donald Trump may have coined a new term in his latest false attack on Kamala Harris' presidential campaign. In a pair of posts on Truth Social over the weekend, the former president said that Vice Pr… [+2286 chars]",
+      "category": "politics"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Ladies and gentlemen, The Weeknd (on Apple Vision Pro)",
+      "description": "Apple is launching a new immersive experience featuring The Weeknd on the Vision Pro. It’s also launching other short films and series centered around NBA All-Stars and more.",
+      "url": "https://www.theverge.com/2024/7/18/24201304/the-weeknd-apple-vision-pro-nba-all-stars",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9dCHmdrq-yoUXISKXSkuooljkyQ=/0x0:1960x1102/1200x628/filters:focal(980x551:981x552)/cdn.vox-cdn.com/uploads/chorus_asset/file/25536683/Apple_Vision_Pro_immersive_video_The_Weeknd.jpg",
+      "publishedAt": "2024-07-18T17:33:23Z",
+      "content": "Ladies and gentlemen, The Weeknd (on Apple Vision Pro)\r\nLadies and gentlemen, The Weeknd (on Apple Vision Pro)\r\n / Apple has just revealed the full slate of immersive content coming to the Vision Pro… [+1931 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Ex-Google CEO says successful AI startups can steal IP and hire lawyers to ‘clean up the mess’",
+      "description": "“But if nobody uses your product, it doesn’t matter that you stole all the content,” former Google CEO Eric Schmidt said during a talk at Stanford that has been pulled offline.",
+      "url": "https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QQQxH6DQRCFJVlX17xypIjc4QEc=/0x0:7496x5379/1200x628/filters:focal(3909x2019:3910x2020)/cdn.vox-cdn.com/uploads/chorus_asset/file/25572964/1241460753.jpg",
+      "publishedAt": "2024-08-15T00:00:25Z",
+      "content": "Ex-Google CEO says successful AI startups can steal IP and hire lawyers to clean up the mess\r\nEx-Google CEO says successful AI startups can steal IP and hire lawyers to clean up the mess\r\n / But if n… [+2876 chars]",
+      "category": "business"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Tech Billionaires Are Fighting Over Who’s the Biggest Asshole in Silicon Valley",
+      "description": "Who is the biggest douchebag of them all? Tech executives on social media are comparing notes.",
+      "url": "https://gizmodo.com/tech-billionaires-are-fighting-over-whos-the-biggest-asshole-in-silicon-valley-2000479222",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-460311128.jpg",
+      "publishedAt": "2024-07-26T18:45:54Z",
+      "content": "Who is the biggest asshole in Silicon Valley? For obvious reasons, this is a difficult question to answer. The tech industry and the venture capital business that finances it are notably riddled with… [+5510 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Michigan Secretary of State Swatted Twice in 48 Hours in Disturbing Trend Against Election Officials",
+      "description": "Officials in Missouri, Maine, Georgia and Virginia have all been targeted recently.",
+      "url": "https://gizmodo.com/michigan-secretary-of-state-swatted-twice-in-48-hours-in-disturbing-trend-against-election-officials-2000486378",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Michigan-Secretary-of-State-Jocelyn-Benson-August-3-2022-getty.jpg",
+      "publishedAt": "2024-08-13T16:30:32Z",
+      "content": "Michigan Secretary of State Jocelyn Benson was swatted twice in the span of just 48 hours, according to a tweet she sent out Monday. Reports of swatting, the practice of calling 911 to falsely report… [+2596 chars]",
+      "category": "politics"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Elon Musk Posts AI-Generated Propaganda in Push to Get Trump Elected",
+      "description": "Gavin Newsom called for a ban on all AI-generated voices after seeing the video.",
+      "url": "https://gizmodo.com/elon-musk-posts-ai-generated-propaganda-in-push-to-get-trump-elected-2000480657",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-2162678656-e1722272900695.jpg",
+      "publishedAt": "2024-07-29T17:15:45Z",
+      "content": "Elon Musk shared an AI-generated video of presumptive Democratic presidential candidate Kamala Harris saying ridiculous things that went viral over the weekend. The video led to a discussion about wh… [+4102 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Thousands of Sharks Found Sleeping ‘Like a Carpet’ on the Ocean Floor",
+      "description": "The enormous assemblage of snoozing sharks were all female, posing a mystery to marine biologists.",
+      "url": "https://gizmodo.com/thousands-of-sharks-found-sleeping-like-a-carpet-on-the-ocean-floor-2000487417",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/shark-slumber-party-australia.jpg",
+      "publishedAt": "2024-08-15T16:25:42Z",
+      "content": "Thousands of schloofing sharks were spotted in an underwater sleepover party off the coast of Australia.\r\nThe shiver consisted of Port Jackson sharks, a species that inhabits Australias southern coas… [+2219 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "All the possible ways to destroy Google’s monopoly in search",
+      "description": "What the future of search could look like as DOJ seeks to end Google's monopoly.",
+      "url": "https://arstechnica.com/tech-policy/2024/08/all-the-possible-ways-to-destroy-googles-monopoly-in-search/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/breaking-up-google-760x380.jpg",
+      "publishedAt": "2024-08-07T18:32:08Z",
+      "content": "13\r\nAfter US District Judge Amit Mehta ruled that Google has a monopoly in two marketsgeneral search services and general text advertisingeverybody is wondering how Google might be forced to change i… [+4487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "The Conjuring Is Getting a Franchise-Spanning Series of Mazes",
+      "description": "The Conjuring, The Nun, and Annabelle will all be part of new mazes at Six Flags Fright Fests.",
+      "url": "https://gizmodo.com/the-conjuring-is-getting-a-franchise-spanning-series-of-mazes-2000487589",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Annabelle-Conjuring-maze-io9.jpg",
+      "publishedAt": "2024-08-15T22:15:19Z",
+      "content": "One of horror’s biggest franchises is making a huge splash this spooky season and io9 has your exclusive first look and details. The Conjuring Universe is coming to Six Flags Fright Fest this fall an… [+5328 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Gault",
+      "title": "Fire at Nuclear Power Plant in Ukraine Puts Experts on Edge",
+      "description": "Images of a cooling tower belching black are frightening, but Russia says it’s all under control now.",
+      "url": "https://gizmodo.com/fire-at-nuclear-power-plant-in-ukraine-puts-experts-on-edge-2000485875",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/NuclearPowerPlantFire.jpg",
+      "publishedAt": "2024-08-12T16:20:15Z",
+      "content": "Zaporizhzhia Nuclear Power Plant in Ukraine caught fire on Sunday and Moscow and Kyiv are blaming each other.\r\nUkrainian president Volodymyr Zelenskyy shared news of the fire in a post on X above a d… [+2791 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Say Goodbye to Google Assistant and Hello to Gemini Live",
+      "description": "Gemini Live promises to deliver on all the ways you wanted to interact with the Assistant but couldn't before.",
+      "url": "https://gizmodo.com/say-goodbye-to-the-google-assistant-on-android-hello-to-gemini-live-2000486157",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Gemini-on-Android.png",
+      "publishedAt": "2024-08-13T17:00:40Z",
+      "content": "It was inevitable. With Gemini taking form in all parts of Google’s ecosystem, it was apparent that Android would eventually follow suit. Alongside the new family of Pixel hardware, Google announced … [+2793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Don’t Rush to Buy the Samsung Galaxy Ring",
+      "description": "Take time with the sizing kit or the experience might dull your feelings on all smart rings going forward.",
+      "url": "https://gizmodo.com/dont-rush-to-buy-the-samsung-galaxy-ring-2000476605",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Galaxy-Ring-5.jpg",
+      "publishedAt": "2024-07-19T18:15:29Z",
+      "content": "There’s plenty to say about Samsung’s new wearable, the Galaxy Ring. It’s a low-key way to track heart health, blood oxygen levels, and sleep metrics without wearing a honker of a smartwatch. It’s wa… [+5649 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Carter",
+      "title": "Moana 2 Crashes Into D23 With a New Trailer",
+      "description": "Adventure! The ocean! Evil coconuts! The new D23 trailer for Moana 2's got all that and more, folks!",
+      "url": "https://gizmodo.com/moana-2-disney-d23-trailer-2000485441",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/moana-2-moana-maui.jpg",
+      "publishedAt": "2024-08-10T02:41:20Z",
+      "content": "It wasn’t that long ago that we’d learned a Moana 2 was coming out this year, and it’s not that far from hitting theaters. During tonight’s D23 panel, Disney brought a new trailer for the upcoming se… [+1537 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Vizio 86-inch Smart TV and 2.1 Soundbar Review: An Affordable Big Screen With a Few Big Tradeoffs",
+      "description": "Vizio's 86-inch Smart TV is fair if all you demand is a big TV for as cheap as possible.",
+      "url": "https://gizmodo.com/vizio-86-inch-smart-tv-and-2-1-soundbar-review-an-affordable-big-screen-with-a-few-big-tradeoffs-2000484638",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Vizio86inchsmartTv6.jpg",
+      "publishedAt": "2024-08-09T11:00:13Z",
+      "content": "I find budget TVs to be a great refresher if youre like me and youve spent too long agonizing over the QLEDs, OLEDs, and all that high-falutin, high-end picture technology. Even still, the $1,000 Viz… [+11511 chars]",
+      "category": "economy"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "Teenage Engineering’s built a medieval-themed sampler, complete with Gregorian chants",
+      "description": "Teenage Engineering is no stranger to weird gadgets that defy description. This is a company that released a $250 toy car\r\n and, uh, whatever these are\r\n. We all knew that. We also knew that the company would likely be releasing a follow-up to its massively s…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d5868abf-b6f5-44db-967a-61535ebce920",
+      "urlToImage": null,
+      "publishedAt": "2024-08-06T16:49:41Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",
+      "category": "business"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Airport chaos around the world after global IT outage",
+      "description": "Many flights have been grounded, with huge queues and delays at airports all over the world.",
+      "url": "https://www.bbc.com/news/videos/cz7ejpld988o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15a2/live/03fbd630-45c3-11ef-b74c-bb483a802c97.jpg",
+      "publishedAt": "2024-07-19T11:51:09Z",
+      "content": "A mass IT outage has caused travel chaos all around the world, with many flights grounded, huge queues and delays at airports.\r\nSeveral airports and airlines have reported issues with their IT system… [+316 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Rings of Power‘s Epic Comic-Con Trailer Brings War to Middle-earth",
+      "description": "Can Sauron tempt anyone with the power of a ring? We, and all of Middle-earth, are about to find out.",
+      "url": "https://gizmodo.com/rings-of-power-season-2-sdcc-2024-trailer-lotr-2000478157",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/sdfgoihdofigh-8-17.jpg",
+      "publishedAt": "2024-07-26T18:32:02Z",
+      "content": "The first season of Amazon’s Lord of the Rings prequel, Rings of Power, heralded the dread return of the Dark Lord Sauron. Now, he’s back: and season two will see all of Middle-earth reckon with the … [+2339 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "Deadpool & Wolverine’s Other Musical Fight Scene Is Even Better Than Its Opening",
+      "description": "\"Bye Bye Bye\" by NSync may be getting all the attention, but we also love the Marvel film's other moment of musical mayhem.",
+      "url": "https://gizmodo.com/deadpool-wolverine-nsync-grease-musical-songs-marvel-2000481688",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-31-at-10.05.59 AM-e1722446324734.jpg",
+      "publishedAt": "2024-07-31T19:00:27Z",
+      "content": "It’s easy to be drawn in by the opening credits of Deadpool &amp; Wolverine. Director Shawn Levy and company crafted a cacophony of carnage unrivaled in Marvel movies. Then, by setting it to a perfec… [+2931 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Brazilian Sharks Test Positive for Cocaine",
+      "description": "Remember Cocaine Bear? Well, Brazilian sharpnose sharks caught off the coast of Rio de Janeiro all tested positive for the stuff, in what is a problematic finding.",
+      "url": "https://gizmodo.com/brazilian-sharks-test-positive-for-cocaine-2000477390",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/sharpnose-shark.jpg",
+      "publishedAt": "2024-07-22T16:35:26Z",
+      "content": "Cocaine Shark is already a horrible looking B-movie, but it’s also a reality as trace amounts of the drug have been detected in sharks near Brazil.\r\nWhile a rampaging cokehead great white would undou… [+2463 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sherri L Smith",
+      "title": "New Pricey Spotify Premium Tier Offers Higher-Quality Tracks",
+      "description": "All signs point to Spotify finally launching a Hi-Res premium tier to the streaming service. However, higher quality audio means higher prices.",
+      "url": "https://gizmodo.com/new-pricey-spotify-premium-tier-offers-higher-quality-tracks-2000478281",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Spotify-Hi-Res-Tier.jpeg",
+      "publishedAt": "2024-07-24T15:35:35Z",
+      "content": "Yet another streaming service is set to announce price hikes. This time, according to Phone Arena, the popular music streaming service Spotify is the culprit. On the heels of the company launching it… [+1907 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Reminder: Don’t Go Roaming Overseas",
+      "description": "Buying an all-inclusive SIM to travel overseas is a better value than letting your U.S. carrier do the roaming for you.",
+      "url": "https://gizmodo.com/reminder-dont-go-roaming-overseas-2000485338",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Roaming-Charges.jpg",
+      "publishedAt": "2024-08-10T12:00:29Z",
+      "content": "I’ve been a longtime Verizon subscribera little too long, if I’m being honest, as I’ve been with the company since it was GTE Wireless. My phone number is an original relic from the ’90s boom of mobi… [+3887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Carter",
+      "title": "Furiosa Races To Streaming and The Physical Place Next Week",
+      "description": "The epic Mad Max prequel starring Anya Taylor-Joy and Chris Hemsworth is finally coming home in all its gnarly, epic glory.",
+      "url": "https://gizmodo.com/furiosa-mad-max-saga-streaming-date-2000485584",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/furiosa-e1723344292580.jpg",
+      "publishedAt": "2024-08-11T18:50:42Z",
+      "content": "It’s been a few months since Furiosa: A Mad Max Saga came into the world as a pretty rad Fury Road prequel that not a lot of folks saw. If you missed it or waited to catch it in the comfort of your o… [+1681 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Adam Kovac",
+      "title": "Citizen Scientists Spot Weird Object Careening Across the Cosmos at Ludicrous Speeds",
+      "description": "Object CWISE J1249 is a bit of a mystery; all we know is that it has some unique properties and it's moving really fast. Like, really fast.",
+      "url": "https://gizmodo.com/citizen-scientists-spot-weird-object-careening-across-the-cosmos-at-ludicrous-speeds-2000487675",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/brown-dwarf-star-milky-way-discovered.jpg",
+      "publishedAt": "2024-08-15T21:20:42Z",
+      "content": "It doesnt take a rocket scientist to make important astronomical discoveries. Sometimes, all it takes is an internet connection and some spare time.\r\nThats all Tom Bickle, Martin Kabatnik, and Austin… [+3043 chars]",
+      "category": "health"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "This Wittlest Game Boy Advance Measures Just 2 Inches, but This Time it Actually Has a Backlight",
+      "description": "The Thumby Color has all the buttons of the old GBA in a pint-sized package, though you'll be playing a host of open source titles.",
+      "url": "https://gizmodo.com/this-wittlest-game-boy-advance-measures-just-2-inches-but-this-time-it-actually-has-a-backlight-2000485075",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/ThumbyColorPurple.png",
+      "publishedAt": "2024-08-09T14:00:02Z",
+      "content": "Most of us adults experienced the odd sensation of our gaming handheld shrinking as we grew up. Rather than boosting the size of handhelds for adult-sized claws, one company is going in the opposite … [+3157 chars]",
+      "category": "sport"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Carter",
+      "title": "Batman: Caped Crusader Gets the Dark Knight His Animated Groove Back",
+      "description": "Batman's new series is compelling and fun in all the ways his adventures often are, but with a fun 1940s spin.",
+      "url": "https://gizmodo.com/batman-caped-crusader-review-prime-video-2000480478",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/batman_crusader_review.jpg",
+      "publishedAt": "2024-07-29T14:00:09Z",
+      "content": "Can you believe its been over a decade since Batman headlined an animated series? (Or rather, one that wasnt for toddlers?) The Dark Knight remains a key part of DC Comics and Warner Bros plans, but … [+4568 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "DC’s New “Absolute” Universe Introduces Down-And-Out Versions of Batman, Superman, and Wonder Woman",
+      "description": "An all-new offshoot of the DC Universe will see its heroes face their greatest adversaries yet: poverty and the housing crisis. Oh, and Darkseid.",
+      "url": "https://gizmodo.com/dc-absolute-universe-new-batman-superman-wonder-woman-2000476158",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/sdfgoihdofigh-8-3.jpg",
+      "publishedAt": "2024-07-18T15:30:59Z",
+      "content": "DC has announced today it plans to release DC All In Special #1, a 64-page single issue “mega event”  presented as “a startling, symmetrical flipbook”no, sadly, not one of thesethat just means it’ll … [+3088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Google Pixel Screenshots App Isn’t a Privacy Nightmare Like Microsoft Recall",
+      "description": "Pixel Screenshots app will let you categorize, search through, and add notes to your screenshots. Best of all, it's not auto-screenshotting everything on your phone.",
+      "url": "https://gizmodo.com/google-pixel-screenshots-app-isnt-the-privacy-nightmare-like-microsoft-recall-2000486612",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Pixel-Screenshots-App-2.jpg",
+      "publishedAt": "2024-08-14T10:15:18Z",
+      "content": "The incoming slate of Pixel 9 phones and the Pixel 9 Pro Fold will be up to their gills in AI features. Of all the Magic Editor and Gemini mumbo jumbo, the one AI capability that stood out is a mere … [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jake Bittle, Grist",
+      "title": "How Marshall Fire Victims in Colorado Turned Tragedy Into Political Change",
+      "description": "After the fire destroyed his town in 2021, a state rep took on insurance companies, mortgage lenders, and landlords—and beat them all.",
+      "url": "https://gizmodo.com/how-marshall-fire-victims-in-colorado-turned-tragedy-into-political-change-2000486538",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/kyle-brown-standing-e1723571918790.jpg",
+      "publishedAt": "2024-08-13T18:25:20Z",
+      "content": "This story is part of State of Emergency, a Grist series exploring how climate disasters are impacting voting and politics, and is published with support from the CO2 Foundation.\r\nAs the one-year ann… [+14041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Al Williams",
+      "title": "All About PNP Transistors",
+      "description": "In the early days, PNP bipolar transistors were common, but the bulk of circuits you see today use NPN transistors. As [Aaron Danner] points out, many people think PNP transistors are “backwa…",
+      "url": "https://hackaday.com/2024/07/21/all-about-pnp-transistors/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/07/pnp.png",
+      "publishedAt": "2024-07-21T08:00:12Z",
+      "content": "In the early days, PNP bipolar transistors were common, but the bulk of circuits you see today use NPN transistors. As [Aaron Danner] points out, many people think PNP transistors are “backward” but … [+1038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Golan Heights air strike: 'The whole town is mourning'",
+      "description": "Residents fear all-out war after an air strike killed 12 children in Israeli-occupied Golan Heights.",
+      "url": "https://www.bbc.com/news/articles/clwy598dyezo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b25e/live/41d9eb30-4cef-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-07-28T15:55:07Z",
+      "content": "The scene around the football pitch here in Majdal Shams, where 12 children died on Saturday, is quiet and deeply sombre.\r\nThere are plenty of people here - local Druze elders in their distinctive re… [+4185 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Molly-Mae, Tommy Fury and the 'brutal' Love Island bubble",
+      "description": "When all your relationship firsts are broadcast to millions, are you doomed to fail before you start?",
+      "url": "https://www.bbc.com/news/articles/cg4y12ywdlxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3260/live/5651fb70-5be0-11ef-824d-3d48c279d1e3.jpg",
+      "publishedAt": "2024-08-16T23:52:41Z",
+      "content": "Molly-Mae and Tommy ended their five year relationship on Wednesday \r\nYour first kiss, the first \"I love you\" and your first fight are all formative parts of a relationship that most couples experien… [+6491 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Last child hurt in Southport attack leaves hospital",
+      "description": "All children admitted to Alder Hey Children's Hospital have now been safely discharged.",
+      "url": "https://www.bbc.com/news/articles/c7033y4yxdyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5df0/live/cf844910-53f9-11ef-8a09-5fa1043056ff.jpg",
+      "publishedAt": "2024-08-06T13:53:55Z",
+      "content": "All the children wounded in the attack on Southport's Hart Street have now been discharged from hospital\r\nThe last child being treated in hospital after the knife attacks in Southport has been discha… [+2273 chars]",
+      "category": "health"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Government creates new prison places for rioters",
+      "description": "The justice minister says there is a \"prison place waiting\" for all involved in rioting and disorder.",
+      "url": "https://www.bbc.com/news/articles/cx2nnj8301yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2da1/live/ffc355b0-53f1-11ef-aebc-6de4d31bf5cd.jpg",
+      "publishedAt": "2024-08-06T12:47:47Z",
+      "content": "The violent disorder in Belfast saw police attacked with petrol bombs\r\nMore than 500 new prison places will be made available to ensure those taking part in rioting and disorder on UK streets can be … [+4575 chars]",
+      "category": "politics"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Couple left 'heartbroken' by burst water main damage",
+      "description": "Steve and Gill Wallis lost all of their possessions when a storage unit was deluged by the flood.",
+      "url": "https://www.bbc.com/news/articles/c9x8zw6dkpro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7b95/live/b49769f0-4f73-11ef-b204-bd72a0cccc1a.jpg",
+      "publishedAt": "2024-08-11T01:30:35Z",
+      "content": "Steve and Gill Wallis have since returned to Turkey after examining their storage unit\r\nA couple say they \"lost everything\" when a burst water main deluged a storage unit containing all of their poss… [+3508 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Becky Sullivan",
+      "title": "Simone Biles wins gymnastics Olympic individual all-around title",
+      "description": "For the second time in her career, gymnast Simone Biles won the Olympic individual all-around final title, only two days after leading the U.S. women's team back to the gold in the team event.",
+      "url": "https://www.npr.org/2024/08/02/nx-s1-5060268/simone-biles-wins-gymnastics-olympic-individual-all-around-title",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-08-02T08:50:50Z",
+      "content": "For the second time in her career, gymnast Simone Biles won the Olympic individual all-around final title, only two days after leading the U.S. women's team back to the gold in the team event.",
+      "category": "health"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Is the US Finally Getting 'All Aboard' With Electric Trains?",
+      "description": "For the first time, two new all-electric passenger trains are operating in the US, which is woefully behind the rest of the world in electrifying its rolling stock. The Verge: The two new trains are operated by Caltrain. California Governor Gavin Newson and H…",
+      "url": "https://tech.slashdot.org/story/24/08/12/1613256/is-the-us-finally-getting-all-aboard-with-electric-trains",
+      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
+      "publishedAt": "2024-08-12T16:50:00Z",
+      "content": "The two new trains are operated by Caltrain. California Governor Gavin Newson and House Speaker Emerita Nancy Pelosi were on hand to take the inaugural ride, which took place on Saturday. The trains … [+776 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "The Coolest Hasbro Star Wars, Marvel, and Transformers Toys Revealed at Comic-Con",
+      "description": "Comic-con always brings a ton of cool toy news from Hasbro–here's a look at all their Star Wars, Marvel, and Transformers reveals from the show floor this year.",
+      "url": "https://gizmodo.com/sdcc-2024-hasbro-marvel-star-wars-transformers-reveals-2000480028",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/SDCC-Hasbro-Reveals-2024.jpg",
+      "publishedAt": "2024-07-27T20:30:19Z",
+      "content": "Every Comic-Con Hasbro always manages to wow us with the amazing new action figures that are going to bleed our wallets dry over the next few months, and this year is no exception. With major reveals… [+6570 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "The Best New Movies and TV Streaming in August 2024, and Where to Watch Them",
+      "description": "The best horror, sci-fi, and genre titles coming to Netflix, Hulu, Prime Video, Disney+, and beyond, including all the Lord of the Rings movies and season 2 of the series.",
+      "url": "https://gizmodo.com/best-new-movies-tv-streaming-august-2024-netflix-hulu-2000480920",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/august-24-nerds.jpg",
+      "publishedAt": "2024-08-01T14:00:28Z",
+      "content": "Summer is almost over, which means only so much time to catch up on your streaming. Welcome to io9s latest edition of the Nerds Watch, where we pare down the enormous lists of new films and televisio… [+7360 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "Kraven the Hunter‘s New Trailer Is a Bloody, Brutal Mess",
+      "description": "A violent new trailer for Sony's Kraven the Hunter is here to do two things: inject itself with rhinoceros DNA and spring traps. And it's all out of rhinoceros DNA.",
+      "url": "https://gizmodo.com/kraven-trailer-release-date-aaron-taylor-johnson-sony-spider-man-marvel-2000486871",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/kraven-trailer-aaron-taylor-johnson-sony-marvel.jpg",
+      "publishedAt": "2024-08-14T15:00:30Z",
+      "content": "Sony has just released a gory new trailer for Kraven the Hunter, it’s latest in a long string of Spider-Man spinoff movies. This time, we’re focusing on the mad big game hunter, Sergei Nikolaevich Kr… [+1583 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Inside Out 2 Is Ready to Come Home After Its Record-Breaking Box Office",
+      "description": "The highest-grossing animated film of all time—and the biggest release of 2024 so far—is releasing digitally August 20, and also gets a Blu-ray and DVD release September 10.",
+      "url": "https://gizmodo.com/inside-out-2-digital-blu-ray-dvd-release-date-streaming-disney-pixar-2000484432",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/INSIDE-OUT-2-homerelease.jpg",
+      "publishedAt": "2024-08-08T14:00:27Z",
+      "content": "Need to add a little more Anxiety to your home life? Good news: Pixar’s Inside Out 2, which smashed its way though records en route to becoming the highest-grossing animated film of all time, as well… [+2897 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jenny McGrath",
+      "title": "11 of the most baffling archaeological finds of all time",
+      "description": "From devices with enigmatic functions to impressive monuments, here are 11 archaeological finds that contain some mysteries.",
+      "url": "https://www.businessinsider.com/baffling-archaeological-finds-phaistos-antikythera-2024-7",
+      "urlToImage": "https://i.insider.com/66a979331a227600e632f976?width=1200&format=jpeg",
+      "publishedAt": "2024-08-02T13:13:01Z",
+      "content": "The Göbekli Tepe contains many tall, carved pillars.Ozan Kose/Getty Images\r\n<ul><li>Archaeologists use a variety of techniques to learn more about ancient objects.</li><li>But some results remain ope… [+12325 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jason Guerrasio",
+      "title": "The 15 highest-grossing animated movies of all time",
+      "description": "From franchise hits like \"Toy Story\" and \"Minions\" to musicals like \"Frozen,\" here are the highest-grossing animated movies of all time.",
+      "url": "https://www.businessinsider.com/highest-grossing-animated-movies-all-time",
+      "urlToImage": "https://i.insider.com/66a234e95a8a7bf04919601e?width=1200&format=jpeg",
+      "publishedAt": "2024-07-25T22:01:42Z",
+      "content": "\"Frozen II.\"Disney\r\n<ul><li>These are the 15 highest-grossing animated feature films of all time.</li><li>Franchise hits like \"Toy Story\" and \"Minions\" and musicals like \"Frozen\" and \"Frozen 2\" domin… [+5724 chars]",
+      "category": "music"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "This Samsung Frame TV deal is still 39 percent off for Amazon Prime Day",
+      "description": "Samsung's 55-inch The Frame with white bezel is down to $998 from $1,646 for Amazon Prime Day. If you're not keen on staring at a black box when you're not watching TV, this is the Prime Day TV deal you should seriously consider. While it's still a high price…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_549c75f3-58b3-495e-b438-ec67b5b9fb74",
+      "urlToImage": null,
+      "publishedAt": "2024-07-17T16:38:41Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",
+      "category": "entertainment"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "That Disney+, Hulu and Max streaming bundle is now available",
+      "description": "We knew it was coming\r\n and now it’s here. Disney has entered into a partnership with Warner Bros. Discovery to offer an ad-free streaming bundle\r\n that includes Disney+, Hulu and Max. The combo pack costs $30 per month, which is a savings of $6 per month whe…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae4e01b5-288a-40fb-bcaf-22b41dc27a10",
+      "urlToImage": null,
+      "publishedAt": "2024-07-25T15:20:15Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",
+      "category": "war"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "The Google Pixel 8a drops to a new low of $399",
+      "description": "Our pick for the best budget Android phone\r\n is looking even better right now as the Google Pixel 8a has dropped to a new all-time-low price. You can pick up the device for $399\r\n. That's 20 percent off the regular price, and it's even lower than any of the d…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bcabd6fc-b5f0-4d9f-bfd4-f8041ea59933",
+      "urlToImage": null,
+      "publishedAt": "2024-08-02T13:51:25Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",
+      "category": "economy"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Benj Edwards",
+      "title": "Self-driving Waymo cars keep SF residents awake all night by honking at each other",
+      "description": "Haunted by glitching algorithms, self-driving cars disturb the peace in San Francisco.",
+      "url": "https://arstechnica.com/information-technology/2024/08/self-driving-waymo-cars-keep-sf-residents-awake-all-night-by-honking-at-each-other/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/waymo_getty-760x380.jpg",
+      "publishedAt": "2024-08-13T19:44:13Z",
+      "content": "Enlarge/ A Waymo self-driving car in front of Google's San Francisco headquarters, San Francisco, California, June 7, 2024.\r\n3\r\nSilicon Valley's latest disruption? Your sleep schedule. On Saturday, N… [+2291 chars]",
+      "category": "technology"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Astronomers find first emission spectra in brightest GRB of all time",
+      "description": "Chance that first detected emission line is a noise fluctuation is one in half a billion.",
+      "url": "https://arstechnica.com/science/2024/07/still-the-boat-fermi-telescope-reveals-new-feature-in-rare-gamma-ray-burst/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/BOAT1-760x380.jpg",
+      "publishedAt": "2024-07-26T18:00:13Z",
+      "content": "Enlarge/ A jet of particles moving at nearly light-speed emerges from a massive star in this artists concept of the BOAT.\r\n1\r\nScientists have been all aflutter since several space-based detectors pic… [+4524 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "The Witch’s Road might take everything in Agatha All Along D23 trailer",
+      "description": "\"The Witch's Road will give you the thing you want most... if you make it to the end.\"",
+      "url": "https://arstechnica.com/culture/2024/08/the-witchs-road-might-take-everything-in-agatha-all-along-d23-trailer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/agatha1-760x380.jpg",
+      "publishedAt": "2024-08-11T21:32:38Z",
+      "content": "2\r\nKathryn Hahn seeks a new witchy coven in Agatha All Along.\r\nDisney introduced the poster and first full trailer for Agatha All Along during its annual D23 Expo this weekend. The nine-episode serie… [+2524 chars]",
+      "category": "entertainment"
+    }
+  ]
+}

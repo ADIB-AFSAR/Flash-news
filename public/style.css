@@ -1,0 +1,225 @@
+#suggestionsList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+#suggestionsList li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+#suggestionsList li:hover {
+  background-color: #f0f0f0;
+}
+.suggestion {
+  list-style: none;
+  padding-left: 1rem;
+}
+.suggestion:hover {
+  background-color: #156ba5;
+  color: white;
+  cursor: pointer;
+  transition: rgb(36, 106, 211) 0.3s ease;
+}
+.heading {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-variant: small-caps;
+}
+
+.crouselItem {
+  width: 100%;
+  height: 50vh;
+  margin: 0;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+  .carousel-item {
+    height: 70vh;
+  }
+}
+
+.crouselImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.searchBtn {
+  /* background-color: rgb(73, 66, 66) !important; */
+  /* color: white ; */
+  border: 0.1px solid rgb(117, 114, 114) !important;
+  /* border: transparent !important; */
+}
+.searchBtn:hover {
+  background-color: rgb(14, 13, 13) !important;
+  color: white !important;
+}
+
+.carousel-container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.fixed-search {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+.dropdown-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 90%;
+  background-color: rgb(49, 47, 47);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-height: 150px;
+  overflow-y: auto;
+}
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  transform: translateY(-10px);
+}
+.card img {
+  width: 100%;
+  height: auto;
+}
+.card-body {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.light {
+  background-color: #fff;
+  color: #000;
+}
+.dark {
+  color: black !important;
+}
+
+.navbar {
+  background-color: transparent !important;
+  transition: background-color 0.3s ease;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: white;
+}
+
+.navbar.scrolled {
+  background-color: rgba(133, 129, 129, 0.356) !important;
+}
+
+.alert-danger {
+  height: 95vh;
+  font-size: clamp(1rem, 0.3843rem + 3.4873vw, 3rem);
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: large;
+  font-variant: small-caps;
+}
+.highlight:hover {
+  color: #fff !important;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff, 0 0 80px #fff,
+    0 0 120px #fff, 0 0 160px #fff !important;
+}
+
+.notFound {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-size: clamp(1rem, 0.3843rem + 3.4873vw, 3rem);
+  color: #aca5a5;
+  background-color: #221f1f;
+  border-color: #ebccd1;
+  padding: 10px;
+  margin: 10px 0;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.title p {
+  font-variant: normal;
+  font-size: large;
+}
+.fire-text:hover {
+  color: #ff4500 !important;
+  text-shadow: 0 0 10px #ff4500, 0 0 20px #ff4500, 0 0 40px #ff6347,
+    0 0 80px #ff6347, 0 0 120px #ff6347, 0 0 160px #ff6347;
+}
+.scroll-buttons {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.scroll-btn {
+  /* background-color: #007bff; */
+  /* border: 2px red solid; */
+  /* color: white; */
+  /* padding: 15px; */
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  transition: background-color 0.3s ease;
+}
+.bi-arrow-down-circle-fill,
+.bi-arrow-up-circle-fill {
+  font-size: 1.5rem;
+}
+
+.scroll-btn:hover {
+  background-color: #0056b3;
+}
+
+/* .scroll-top-btn {
+  background-color: #28a745;
+} */
+
+.scroll-top-btn:hover {
+  background-color: #218838;
+}
+
+/* .scroll-bottom-btn {
+  background-color: #dc3545;
+} */
+
+.scroll-bottom-btn:hover {
+  background-color: #235dc8;
+}
