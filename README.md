@@ -1,70 +1,118 @@
-# Getting Started with Create React App
+# News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the News App! This project is a React-based application that displays news articles and allows users to filter and search for news based on categories.
 
-## Available Scripts
+## Important Information
 
-In the project directory, you can run:
+This application supports both dynamic and static data. Currently, while hosted, it only supports static data. However, you can use it with dynamic APIs locally by cloning the repository to your system and adding your API key in place of static file path. 
 
-### `npm start`
+To run the application with static data, read installation process
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+1. [Features](#features)
+2. [Prerequisites](#prerequisites)
+3. [Installation](#installation)
+4. [Environment Variables](#environment-variables)
+5. [Usage](#usage)
+6. [Folder Structure](#folder-structure)
+7. [API Reference](#api-reference)
+8. [Contributing](#contributing)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- **Dynamic News Display:** Fetch and display news articles from an API.
+- **Category Filtering:** Filter news articles by category using dynamic slugs.
+- **Search Functionality:** Search for news articles based on user input.
+- **Responsive Design:** Fully responsive design optimized for various devices.
+- **Light and Dark Mode:** Theme toggle to switch between light and dark modes.
+- **Smooth Scrolling:** Scroll smoothly with "up" and "down" buttons.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Before you begin, ensure you have met the following requirements:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Node.js:** 14.x or later
+- **npm or Yarn:** Package manager to handle dependencies
+- **Vercel CLI:** For deployment (optional)
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the Repository**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/yourusername/news-app.git
+   cd news-app
+2. **Install Dependencies**
+   npm install or yarn install
+3. Run the Application
+   npm start or yarn start
+   
+## Environment Variables
+  Create a .env file in the root directory of the project and add the following variables:
+  
+  REACT_APP_API_KEY=your_api_key
+  REACT_APP_API_URL=https://newsapi.org/v2/everything
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  Replace your_api_key with your actual API key and adjust REACT_APP_API_URL as needed.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Usage
+1. Navigate to http://localhost:3000 in your browser to view the app.
+2. Use the search bar to find news articles.
+3. Filter news articles by selecting a category.
+4. Toggle between light and dark modes using the theme switch.
 
-## Learn More
+## Folder Structure
+/news-app
+|-- /public
+|   |-- index.html
+|   |-- style.css
+|   |-- favicon.ico
+|   |-- flash.png
+|-- /src
+|   |-- /components
+|   |   |-- ScrollBtn.jsx
+|   |   |-- NewsItems.jsx
+|   |   |-- Search.jsx
+|   |   |-- Crousel.jsx
+|   |-- /pages
+|   |   |-- Home.jsx
+|   |   |-- Category.jsx
+|   |-- /redux
+|   |   |-- /action
+|   |   |   |-- action.js
+|   |   |-- /constant
+|   |   |   |--contant.js
+|   |   |-- /reducer
+|   |   |   |-- reducer.js
+|   |   |-- /saga
+|   |   |   |--saga.js
+|   |   |   |--service.js
+|   |   |   |--data_updated.json
+|   |   |-- store.js
+|   |-- /layouts
+|   |   |-- Header.jsx
+|   |   |-- Footer.jsx
+|   |-- App.js
+|   |-- index.js
+|-- .env
+|-- package.json
+|-- README.md
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## API Reference
+The app uses the News API to fetch news articles. Ensure you have a valid API key. API endpoints and usage are detailed in the News API documentation.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
+1. Fork the Repository: Click the "Fork" button on GitHub to create a copy of the repository under your account.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+2. Clone Your Fork: Clone the forked repository to your local machine:
+   git clone https://github.com/yourusername/news-app.git
+3. Create a Branch: Create a new branch for your changes:
+   git checkout -b feature/your-feature
+4. Make Changes: Implement your changes and commit them:
+   git add .
+   git commit -m "Add new feature"
+5. Push Changes: Push your changes to your forked repository:
+   git push origin feature/your-feature
+6. Create a Pull Request: Go to the original repository and open a pull request with your changes.
