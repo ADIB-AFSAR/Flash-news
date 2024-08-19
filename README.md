@@ -1,7 +1,8 @@
 # News App
 
 Welcome to the News App! This project is a React-based application that displays news articles and allows users to filter and search for news based on categories.
-Link - https://flash-news-delta.vercel.app/
+
+**Live link** - https://flash-news-delta.vercel.app/
 
 ## Important Information
 
