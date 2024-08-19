@@ -66,41 +66,36 @@ Before you begin, ensure you have met the following requirements:
 4. Toggle between light and dark modes using the theme switch.
 
 ## Folder Structure
-/news-app
-|-- /public
-|   |-- index.html
-|   |-- style.css
-|   |-- favicon.ico
-|   |-- flash.png
-|-- /src
-|   |-- /components
-|   |   |-- ScrollBtn.jsx
-|   |   |-- NewsItems.jsx
-|   |   |-- Search.jsx
-|   |   |-- Crousel.jsx
-|   |-- /pages
-|   |   |-- Home.jsx
-|   |   |-- Category.jsx
-|   |-- /redux
-|   |   |-- /action
-|   |   |   |-- action.js
-|   |   |-- /constant
-|   |   |   |--contant.js
-|   |   |-- /reducer
-|   |   |   |-- reducer.js
-|   |   |-- /saga
-|   |   |   |--saga.js
-|   |   |   |--service.js
-|   |   |   |--data_updated.json
-|   |   |-- store.js
-|   |-- /layouts
-|   |   |-- Header.jsx
-|   |   |-- Footer.jsx
-|   |-- App.js
-|   |-- index.js
-|-- .env
-|-- package.json
-|-- README.md
+├── public/
+│ ├── index.html
+│ ├── favicon.ico
+│ ├── flash.png
+│ └── style.css 
+├── src/
+│ ├── components/
+│ │ ├── NewsItems.jsx
+│ │ ├── ScrollBtn.jsx 
+│ │ └── Search.jsx
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ └── Category.jsx
+│ ├── redux/
+│ │ ├── action/
+│ │ │ └── action.js
+│ │ ├── reducer/
+│ │ │ └── reducer.js
+│ │ └── saga/
+│ │ ├── saga.js
+│ │ └── data-updated.json 
+│ ├── layouts/
+│ │ ├── Header.jsx
+│ │ └── Footer.jsx
+│ ├── App.js
+│ ├── index.js
+│ └── style.css 
+├── .gitignore
+├── package.json
+└── README.md
 
 ## API Reference
 The app uses the News API to fetch news articles. Ensure you have a valid API key. API endpoints and usage are detailed in the News API documentation.
