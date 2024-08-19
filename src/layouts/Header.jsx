@@ -2,8 +2,6 @@ import React, { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
- 
-
 function Header() {
   const [mode, setMode] = useState(document.body.getAttribute("data-bs-theme"));
   const changeMode = () => {
@@ -43,10 +41,16 @@ function Header() {
           to="/"
         >
           <span className="highlight" style={{ fontVariant: "all-small-caps" }}>
-             {<img src={`${process.env.PUBLIC_URL}/flash.png`} alt="logo" height={15}/>}Flash News
+            {
+              <img
+                src={`${process.env.PUBLIC_URL}/flash.png`}
+                alt="logo"
+                height={15}
+              />
+            }
+            Flash News
           </span>
         </Link>
-        <div className="d-flex justify-content-around">
         <button
           className="navbar-toggler"
           type="button"
@@ -75,14 +79,13 @@ function Header() {
             })}
           </ul>
         </div>
-        <button onClick={changeMode} className=" btn btn-primary mx-2">
+        <button onClick={changeMode} className="btn btn-primary  mx-2">
           {mode === "dark" ? (
             <i className="bi bi-moon-stars-fill"></i>
           ) : (
             <i className="bi bi-sun-fill"></i>
           )}
         </button>
-        </div>
       </div>
     </nav>
   );
