@@ -100,7 +100,7 @@ function Crousel(props) {
                     className="btn btn-lg btn-sm btn-primary"
                     href={props?.item3?.url}
                   >
-                    Visit
+                    Read more
                   </a>
                 </p>
               </div>
