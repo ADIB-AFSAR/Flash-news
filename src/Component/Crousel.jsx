@@ -58,7 +58,7 @@ function Crousel(props) {
                     className="btn btn-lg btn-primary btn-sm"
                     href={props?.item1?.url}
                   >
-                    Visit
+                    Read more
                   </a>
                 </p>
               </div>
@@ -79,7 +79,7 @@ function Crousel(props) {
                     className="btn btn-lg btn-sm btn-primary"
                     href={props?.item2?.url}
                   >
-                    Visit
+                    Read more
                   </a>
                 </p>
               </div>

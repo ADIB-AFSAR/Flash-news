@@ -40,7 +40,7 @@ function Header() {
           }`}
           to="/"
         >
-          <span className="highlight" style={{ fontVariant: "all-small-caps" }}>
+          <span className="highlight" style={{ fontVariant: "small-caps" }}>
             {
               <img
                 src={`${process.env.PUBLIC_URL}/flash.png`}
